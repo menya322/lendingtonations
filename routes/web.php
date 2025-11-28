@@ -17,11 +17,11 @@ use App\Http\Controllers\ContactController;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('welcome');
+// });
 
-// Route::middleware([
+// // Route::middleware([
 //     'auth:sanctum',
 //     config('jetstream.auth_session'),
 //     'verified'
@@ -31,7 +31,7 @@ Route::get('/', function () {
 //     })->name('dashboard');
 // });
 
-Route::get('/home', [HomeController::class,'index'])->name('home');
+Route::get('/', [HomeController::class,'index'])->name('home');
 Route::get('/contact', [HomeController::class,'contact'])->name('contact');
 Route::get('/donate', [HomeController::class,'donate'])->name('donate');
 Route::get('/about', [HomeController::class,'aboutus'])->name('about');
