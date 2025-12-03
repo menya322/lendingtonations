@@ -136,6 +136,7 @@
                                 <p class="mb-3 fs-5 text-primary">486641</p>
                                 <p class="mb-2"><strong>Mtn  Mobile Money:</strong></p>
                                 <p class="mb-0 fs-5 text-primary">+256 784 524 705</p>
+                                <p class="mb-0 fs-5 text-primary">+256 776 779 820</p>
                             </div>
                         </div>
                     </div>
@@ -244,7 +245,7 @@
                     <div class="col-lg-6 wow fadeInLeft" data-wow-delay="0.2s">
                         <div class="testimonial-card bg-white rounded p-4">
                             <div class="d-flex align-items-center mb-3">
-                                <img src="{{asset('assets/img/user.png')}}" class="rounded-circle me-3" style="width: 60px; height: 60px;" alt="Donor">
+                                <img src="{{asset('assets/images/user.png')}}" class="rounded-circle me-3" style="width: 60px; height: 60px;" alt="Donor">
                                 <div>
                                     <h5 class="mb-0">Sarah M.</h5>
                                     <small class="text-muted">Monthly Partner</small>
@@ -265,7 +266,7 @@
                     <div class="col-lg-6 wow fadeInRight" data-wow-delay="0.2s">
                         <div class="testimonial-card bg-white rounded p-4">
                             <div class="d-flex align-items-center mb-3">
-                                <img src="{{asset('assets/img/user.png')}}" class="rounded-circle me-3" style="width: 60px; height: 60px;" alt="Donor">
+                                <img src="{{asset('assets/images/user.png')}}" class="rounded-circle me-3" style="width: 60px; height: 60px;" alt="Donor">
                                 <div>
                                     <h5 class="mb-0">John D.</h5>
                                     <small class="text-muted">Corporate Partner</small>

@@ -67,7 +67,7 @@
                                         </div>
                                         <div>
                                             <h4>Mail Us</h4>
-                                            <p class="mb-0">info@lendingnations.org</p>
+                                            <p class="mb-0">info@lendingtonations.org</p>
                                         </div>
                                     </div>
                                 </div>
@@ -78,7 +78,7 @@
                                         </div>
                                         <div>
                                             <h4>Telephone</h4>
-                                            <p class="mb-0">(+256) 784 524705</p>
+                                            <p class="mb-0">(+256) 776 779820</p>
                                         </div>
                                     </div>
                                 </div>
@@ -89,7 +89,8 @@
                                         </div>
                                         <div>
                                             <h4>www.lendingtonations.org</h4>
-                                            <p class="mb-0">(+256) 7049 45189</p>
+                                            
+
                                         </div>
                                     </div>
                                 </div>

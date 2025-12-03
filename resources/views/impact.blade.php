@@ -582,7 +582,7 @@
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.2s">
                         <div class="testimonial-card bg-white rounded p-4">
                             <div class="d-flex align-items-center mb-3">
-                                <img src="{{asset('assets/img/user.png')}}" class="rounded-circle me-3" style="width: 60px; height: 60px;" alt="Testimonial">
+                                <img src="{{asset('assets/images/user.png')}}" class="rounded-circle me-3" style="width: 60px; height: 60px;" alt="Testimonial">
                                 <div>
                                     <h5 class="mb-0">Chief Kangira</h5>
                                     <small class="text-muted">Community Leader</small>
@@ -604,7 +604,7 @@
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="testimonial-card bg-white rounded p-4">
                             <div class="d-flex align-items-center mb-3">
-                                <img src="{{asset('assets/img/user.png')}}" class="rounded-circle me-3" style="width: 60px; height: 60px;" alt="Testimonial">
+                                <img src="{{asset('assets/images/user.png')}}" class="rounded-circle me-3" style="width: 60px; height: 60px;" alt="Testimonial">
                                 <div>
                                     <h5 class="mb-0">Dr. Samuel</h5>
                                     <small class="text-muted">Healthcare Partner</small>
@@ -628,23 +628,7 @@
         </div>
         <!-- Partner Testimonials End -->
 
-        <!-- Download Impact Report CTA Start -->
-        <div class="container-fluid bg-primary py-5">
-            <div class="container py-5">
-                <div class="row align-items-center g-4">
-                    <div class="col-lg-8 wow fadeInLeft" data-wow-delay="0.2s">
-                        <h4 class="text-white mb-2">Want Detailed Information?</h4>
-                        <h3 class="text-white mb-0">Download Our Comprehensive Impact Report</h3>
-                    </div>
-                    <div class="col-lg-4 text-lg-end wow fadeInRight" data-wow-delay="0.2s">
-                        <a href="{{asset('assets/documents/impact-report-2024.pdf')}}" class="btn btn-white btn-lg rounded-pill py-3 px-5" target="_blank">
-                            <i class="fas fa-download me-2"></i> Download PDF
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Download Impact Report CTA End -->
+       
 
         @include('partials.footer')
         

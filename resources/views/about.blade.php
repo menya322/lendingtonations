@@ -125,68 +125,31 @@
         </div>
         <!-- Vision, Mission & Values End -->
 
-       <div class="container-fluid team py-5">
-            <div class="container py-5">
-                <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
-                    <h4 class="text-primary">Our Team</h4>
-                    <h1 class="display-5 mb-4">Meet Our Advisers</h1>
-                    <p class="mb-0">We are more than just volunteers; we are a spiritual family and a covenant community, handpicked and guided under 
-                         the visionary leadership of Dr. Tumusiime Paul. Each member brings unique gifts,
-                          skills, and a burning commitment to be the hands and feet of Jesus in practical service.
-                    </p>
-                </div>
-                <div class="row g-4">
-                    <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.2s">
-                        <div class="team-item">
-                            <div class="team-img">
-                                <img src="{{asset('assets/images/men.jpg')}}" class="img-fluid" alt="">
-                            </div>
-                            <div class="team-title">
-                                <h4 class="mb-0">Dr. Tumusiime Paul</h4>
-                                <p class="mb-0">Founder & Director</p>
-                            </div>
-                            
-                        </div>
+<div class="container-fluid team py-5">
+    <div class="container py-5">
+        <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" >
+            <h4 class="text-primary">Our Team</h4>
+            <h1 class="display-5 mb-4">CEO/DIRECTOR</h1>
+            <p class="mb-0">We are more than just volunteers; we are a spiritual family and a covenant community, handpicked and guided under 
+                 the visionary leadership of Dr. Tumusiime Paul. Each member brings unique gifts,
+                  skills, and a burning commitment to be the hands and feet of Jesus in practical service.
+            </p>
+        </div>
+        <div class="row g-4 justify-content-center">
+            <div class="col-md-6 col-lg-4 col-xl-3 wow fadeInUp" data-wow-delay="0.6s">
+                <div class="team-item">
+                    <div class="team-img">
+                        <img src="{{asset('assets/images/paul.jpg')}}" class="img-fluid" alt="">
                     </div>
-                    <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.4s">
-                        <div class="team-item">
-                            <div class="team-img">
-                                <img src="{{asset('assets/images/men.jpg')}}" class="img-fluid" alt="">
-                            </div>
-                            <div class="team-title">
-                                <h4 class="mb-0">David James</h4>
-                                <p class="mb-0">Team Member</p>
-                            </div>
-                           
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.6s">
-                        <div class="team-item">
-                            <div class="team-img">
-                                <img src="{{asset('assets/images/men.jpg')}}" class="img-fluid" alt="">
-                            </div>
-                            <div class="team-title">
-                                <h4 class="mb-0">Menya Gerald</h4>
-                                <p class="mb-0">Mobiliser</p>
-                            </div>
-                           
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.8s">
-                        <div class="team-item">
-                            <div class="team-img">
-                                <img src="{{asset('assets/images/men.jpg')}}" class="img-fluid" alt="">
-                            </div>
-                            <div class="team-title">
-                                <h4 class="mb-0">Team Member</h4>
-                                <p class="mb-0">Role</p>
-                            </div>
-                            
-                        </div>
+                    <div class="team-title">
+                        <h4 class="mb-0">Dr Tumusiime Paul</h4>
+                        <p class="mb-0">CEO/FOUNDER</p>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
+</div>
 
         <!-- Our Story/Journey Start -->
         <div class="container-fluid py-5">

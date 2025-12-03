@@ -150,7 +150,7 @@ but to disciple, mentor, and anchor people in the truth of the Gospel.
                             <i class="fas fa-quote-left fa-2x"></i>
                         </div>
                         <div class="testimonial-img">
-                            <img src="{{asset('assets/img/user.png')}}" class="img-fluid" alt="Image">
+                            <img src="{{asset('assets/images/user.png')}}" class="img-fluid" alt="Image">
                         </div>
                         <div class="testimonial-text">
                             <p class="mb-0">"As a widow, I lost all hope of providing for my children. The Women of Destiny program taught me how to sew and run a small business. The seed capital they gave me was a miracle, but the greater miracle was the restoration of my dignity. I am no longer a burden; I am a business owner and a pillar for my family.
@@ -178,7 +178,7 @@ but to disciple, mentor, and anchor people in the truth of the Gospel.
                             <i class="fas fa-quote-left fa-2x"></i>
                         </div>
                         <div class="testimonial-img">
-                            <img src="{{asset('assets/img/user.png')}}" class="img-fluid" alt="Image">
+                            <img src="{{asset('assets/images/user.png')}}" class="img-fluid" alt="Image">
                         </div>
                         <div class="testimonial-text">
                             <p class="mb-0">When the Lending To Nations team came with their dental camp, they brought more than medical expertise they brought the tangible love of Christ. Many here live with chronic tooth pain, unable to afford treatment. They not only relieved our physical suffering but prayed with us, showing a compassion that touched our spirits. Through the food packages and medical care, we have seen God's outstretched arm in our community. 
@@ -207,7 +207,7 @@ but to disciple, mentor, and anchor people in the truth of the Gospel.
                             <i class="fas fa-quote-left fa-2x"></i>
                         </div>
                         <div class="testimonial-img">
-                            <img src="{{asset('assets/img/user.png')}}" class="img-fluid" alt="Image">
+                            <img src="{{asset('assets/images/user.png')}}" class="img-fluid" alt="Image">
                         </div>
                         <div class="testimonial-text">
                             <p class="mb-0">When they came to our village, they brought food for our bodies and the Word for our souls. I received a care package for my children, but I also received prayer that broke a years-long burden of despair. Lending To Nations understands that a person is both body and spirit. They didn't just hand out goods and leave; they stayed, they laughed with us, and made us feel like family. 
@@ -236,7 +236,7 @@ but to disciple, mentor, and anchor people in the truth of the Gospel.
                             <i class="fas fa-quote-left fa-2x"></i>
                         </div>
                         <div class="testimonial-img">
-                            <img src="{{asset('assets/img/user.png')}}" class="img-fluid" alt="Image">
+                            <img src="{{asset('assets/images/user.png')}}" class="img-fluid" alt="Image">
                         </div>
                         <div class="testimonial-text">
                             <p class="mb-0">"Before Lending To Nations, my grandson's future was a closed book. I struggled to even afford his 

@@ -4,9 +4,11 @@
                 <div class="row g-5">
                     <div class="col-md-6 col-lg-6 col-xl-4">
                         <div class="footer-item">
-                            <a href="" class="navbar-brand p-0">
-                    <img src="{{asset('assets/images/nations.png')}}" alt="Logo" style="height: 100px; width: auto; max-width: 200px; object-fit: contain;">
-                </a>
+                          <a href="{{route('home')}}" class="navbar-brand p-0" style="margin-right: 1rem;">
+    <img src="{{asset('assets/images/nations.png')}}" 
+         alt="Logo" 
+         style="width: 300px; height: auto; max-height: 300px;">
+</a>
                             <p class="mb-4">We are LENDING TO NATIONS a divine movement, a generational assignment, a kingdom mandate in motion. 
                          Every life touched, every community transformed, every nation impacted resounds with one eternal echo:
                          ALL GLORY TO GOD who enables us to be His outstretched arm to the nations</p>
@@ -18,10 +20,10 @@
                         <div class="footer-item">
                             <h4 class="text-white mb-4">Quick Links</h4>
                             <a href="#"><i class="fas fa-angle-right me-2"></i> About Us</a>
-                            <a href="#"><i class="fas fa-angle-right me-2"></i> Features</a>
-                            <a href="#"><i class="fas fa-angle-right me-2"></i> Attractions</a>
-                            <a href="#"><i class="fas fa-angle-right me-2"></i> Properties</a>
-                            <a href="#"><i class="fas fa-angle-right me-2"></i> Blog</a>
+                            <a href="#"><i class="fas fa-angle-right me-2"></i> Gallery</a>
+                            <a href="#"><i class="fas fa-angle-right me-2"></i> Insights</a>
+                            <a href="#"><i class="fas fa-angle-right me-2"></i> Get Involved</a>
+                            <a href="#"><i class="fas fa-angle-right me-2"></i> Donate</a>
                             <a href="#"><i class="fas fa-angle-right me-2"></i> Contact us</a>
                         </div>
                     </div>
@@ -45,11 +47,11 @@
                             </div>
                             <div class="d-flex align-items-center">
                                 <i class="fas fa-envelope text-primary me-3"></i>
-                                <p class="text-white mb-0">info@lendingnations.org</p>
+                                <p class="text-white mb-0">info@lendingtonations.org</p>
                             </div>
                             <div class="d-flex align-items-center">
                                 <i class="fa fa-phone-alt text-primary me-3"></i>
-                                <p class="text-white mb-0">+256 784 524 705</p>
+                                 <p class="text-white mb-0">+256 776 779 820</p>
                             </div>
                             <div class="d-flex align-items-center mb-4">
                                 <i class="fab fa-firefox-browser text-primary me-3"></i>
@@ -77,7 +79,7 @@
             <div class="col-md-12 text-center mb-md-0">
                 <span class="text-body">
                     <a href="#" class="border-bottom text-white">
-                        <i class="fas fa-copyright text-light me-2"></i>lendingtonations
+                        <i class="fas fa-copyright text-light me-2"></i>lendingtonations.org
                     </a>, 
                     All right reserved. &copy; <span id="year"></span>
                 </span>

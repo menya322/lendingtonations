@@ -33,8 +33,8 @@
                 <div class="col-lg-8 text-center text-lg-start mb-2 mb-lg-0">
                     <div class="d-flex flex-wrap">
                         <a href="#" class="text-muted small me-4"><i class="fas fa-map-marker-alt text-primary me-2"></i>Masindi Uganda</a>
-                        <a href="tel:+01234567890" class="text-muted small me-4"><i class="fas fa-phone-alt text-primary me-2"></i>+256784524705</a>
-                        <a href="mailto:example@gmail.com" class="text-muted small me-0"><i class="fas fa-envelope text-primary me-2"></i>info@lendingnations.org</a>
+                        <a href="tel:+01234567890" class="text-muted small me-4"><i class="fas fa-phone-alt text-primary me-2"></i>+256776779820</a>
+                        <a href="mailto:example@gmail.com" class="text-muted small me-0"><i class="fas fa-envelope text-primary me-2"></i>info@lendingtonations.org</a>
                     </div>
                 </div>
                 <div class="col-lg-4 text-center text-lg-end">
@@ -60,9 +60,11 @@
         <!-- Navbar & Hero Start -->
         <div class="container-fluid position-relative p-0">
             <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
-                <a href="" class="navbar-brand p-0">
-                    <img src="{{asset('assets/images/nations.png')}}" alt="Logo" style="height:160px; width:100px auto; max-width: 200px; object-fit: contain;">
-                </a>
+           <a href="{{route('home')}}" class="navbar-brand p-0" style="margin-right: 1rem;">
+    <img src="{{asset('assets/images/nations.png')}}" 
+         alt="Logo" 
+         style="width: 150px; height: auto; max-height: 150px;">
+</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                     <span class="fa fa-bars"></span>
                 </button>

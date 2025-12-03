@@ -170,9 +170,9 @@
                     </div>
 
                     <div class="col-lg-3 col-md-6 wow fadeInUp gallery-item" data-filter="education" data-wow-delay="0.5s">
-                        <div class="gallery-card rounded overflow-hidden shadow-sm h-100 cursor-pointer" data-bs-toggle="modal" data-bs-target="#galleryModal" data-image="{{asset('assets/images/gallery-education-4.jpg')}}" data-title="School Graduation" data-desc="Celebrating academic achievements">
+                        <div class="gallery-card rounded overflow-hidden shadow-sm h-100 cursor-pointer" data-bs-toggle="modal" data-bs-target="#galleryModal" data-image="{{asset('assets/images/grad.jpg')}}" data-title="School Graduation" data-desc="Celebrating academic achievements">
                             <div class="gallery-image position-relative overflow-hidden" style="height: 250px;">
-                                <img src="{{asset('assets/images/gallery-education-4.jpg')}}" class="w-100 h-100" style="object-fit: cover;" alt="Education">
+                                <img src="{{asset('assets/images/grad.jpg')}}" class="w-100 h-100" style="object-fit: cover;" alt="Education">
                                 <div class="gallery-overlay d-flex align-items-center justify-content-center">
                                     <i class="fas fa-search-plus fa-3x text-white"></i>
                                 </div>
@@ -308,9 +308,9 @@
 
                     <!-- Events Gallery Items -->
                     <div class="col-lg-3 col-md-6 wow fadeInUp gallery-item" data-filter="events" data-wow-delay="0.2s">
-                        <div class="gallery-card rounded overflow-hidden shadow-sm h-100 cursor-pointer" data-bs-toggle="modal" data-bs-target="#galleryModal" data-image="{{asset('assets/images/gallery-events-1.jpg')}}" data-title="Evangelistic Crusade" data-desc="Gospel outreach event">
+                        <div class="gallery-card rounded overflow-hidden shadow-sm h-100 cursor-pointer" data-bs-toggle="modal" data-bs-target="#galleryModal" data-image="{{asset('assets/images/crusade.jpg')}}" data-title="Evangelistic Crusade" data-desc="Gospel outreach event">
                             <div class="gallery-image position-relative overflow-hidden" style="height: 250px;">
-                                <img src="{{asset('assets/images/gallery-events-1.jpg')}}" class="w-100 h-100" style="object-fit: cover;" alt="Events">
+                                <img src="{{asset('assets/images/crusade.jpg')}}" class="w-100 h-100" style="object-fit: cover;" alt="Events">
                                 <div class="gallery-overlay d-flex align-items-center justify-content-center">
                                     <i class="fas fa-search-plus fa-3x text-white"></i>
                                 </div>
@@ -323,9 +323,9 @@
                     </div>
 
                     <div class="col-lg-3 col-md-6 wow fadeInUp gallery-item" data-filter="events" data-wow-delay="0.3s">
-                        <div class="gallery-card rounded overflow-hidden shadow-sm h-100 cursor-pointer" data-bs-toggle="modal" data-bs-target="#galleryModal" data-image="{{asset('assets/images/gallery-events-2.jpg')}}" data-title="Community Celebration" data-desc="Celebrating together">
+                        <div class="gallery-card rounded overflow-hidden shadow-sm h-100 cursor-pointer" data-bs-toggle="modal" data-bs-target="#galleryModal" data-image="{{asset('assets/images/celebrate.jpg')}}" data-title="Community Celebration" data-desc="Celebrating together">
                             <div class="gallery-image position-relative overflow-hidden" style="height: 250px;">
-                                <img src="{{asset('assets/images/gallery-events-2.jpg')}}" class="w-100 h-100" style="object-fit: cover;" alt="Events">
+                                <img src="{{asset('assets/images/celebrate.jpg')}}" class="w-100 h-100" style="object-fit: cover;" alt="Events">
                                 <div class="gallery-overlay d-flex align-items-center justify-content-center">
                                     <i class="fas fa-search-plus fa-3x text-white"></i>
                                 </div>
@@ -338,9 +338,9 @@
                     </div>
 
                     <div class="col-lg-3 col-md-6 wow fadeInUp gallery-item" data-filter="events" data-wow-delay="0.4s">
-                        <div class="gallery-card rounded overflow-hidden shadow-sm h-100 cursor-pointer" data-bs-toggle="modal" data-bs-target="#galleryModal" data-image="{{asset('assets/images/gallery-events-3.jpg')}}" data-title="Team Activity" data-desc="Team building event">
+                        <div class="gallery-card rounded overflow-hidden shadow-sm h-100 cursor-pointer" data-bs-toggle="modal" data-bs-target="#galleryModal" data-image="{{asset('assets/images/activity.jpg')}}" data-title="Team Activity" data-desc="Team building event">
                             <div class="gallery-image position-relative overflow-hidden" style="height: 250px;">
-                                <img src="{{asset('assets/images/gallery-events-3.jpg')}}" class="w-100 h-100" style="object-fit: cover;" alt="Events">
+                                <img src="{{asset('assets/images/activity.jpg')}}" class="w-100 h-100" style="object-fit: cover;" alt="Events">
                                 <div class="gallery-overlay d-flex align-items-center justify-content-center">
                                     <i class="fas fa-search-plus fa-3x text-white"></i>
                                 </div>
@@ -353,9 +353,9 @@
                     </div>
 
                     <div class="col-lg-3 col-md-6 wow fadeInUp gallery-item" data-filter="events" data-wow-delay="0.5s">
-                        <div class="gallery-card rounded overflow-hidden shadow-sm h-100 cursor-pointer" data-bs-toggle="modal" data-bs-target="#galleryModal" data-image="{{asset('assets/images/gallery-events-4. jpg')}}" data-title="Partnership Event" data-desc="Partner appreciation event">
+                        <div class="gallery-card rounded overflow-hidden shadow-sm h-100 cursor-pointer" data-bs-toggle="modal" data-bs-target="#galleryModal" data-image="{{asset('assets/images/partner.jpg')}}" data-title="Partnership Event" data-desc="Partner appreciation event">
                             <div class="gallery-image position-relative overflow-hidden" style="height: 250px;">
-                                <img src="{{asset('assets/images/gallery-events-4.jpg')}}" class="w-100 h-100" style="object-fit: cover;" alt="Events">
+                                <img src="{{asset('assets/images/partner.jpg')}}" class="w-100 h-100" style="object-fit: cover;" alt="Events">
                                 <div class="gallery-overlay d-flex align-items-center justify-content-center">
                                     <i class="fas fa-search-plus fa-3x text-white"></i>
                                 </div>
@@ -474,16 +474,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-lg-4 text-lg-center wow fadeInRight" data-wow-delay="0.2s">
-                        <div class="bg-light rounded p-5 text-center">
-                            <i class="fas fa-images fa-5x text-primary mb-3"></i>
-                            <h5 class="mb-3">Download Collection</h5>
-                            <p class="text-muted mb-4">Download high-resolution images for your publications and presentations</p>
-                            <a href="#" class="btn btn-primary btn-sm rounded-pill">
-                                <i class="fas fa-download me-2"></i> Download
-                            </a>
-                        </div>
-                    </div>
+                    
                 </div>
             </div>
         </div>

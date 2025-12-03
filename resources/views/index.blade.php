@@ -118,7 +118,7 @@
                             <h4 class="text-primary text-uppercase fw-bold">About Us</h4>
                             <h1 class="display-5 mb-4">Extending Compassion, Manifesting Truth, and Transforming Lives Across Nations</h1>
                             <p class="mb-4 lh-lg">
-                                Lending To Nations represents a divine convergence of vision and purpose a ministry birthed not in boardrooms but in the secret place of meditation with the Holy Spirit. On February 5th, 2025, during a profound moment of spiritual reflection on Dr. Tumusiime Paul's 26th birthday, heaven deposited a blueprint for national transformation. What emerged was more than an organization; it became God's outstretched arm extended across geographical, cultural, and spiritual boundaries.
+                                Lending To Nations represents a divine convergence of vision and purpose a ministry birthed not in boardrooms but in the secret place of meditation with the Holy Spirit. On February 5th, 2025, during a profound moment of spiritual reflection on Dr. Tumusiime Paul's 26th birthday, heaven deposited a blueprint for global transformation. What emerged was more than an organization; it became God's outstretched arm extended across geographical, cultural, and spiritual boundaries.
                             </p>
 
                             <!-- About Features -->
@@ -163,7 +163,7 @@
                                         <i class="fas fa-phone-alt fa-2x text-primary me-4"></i>
                                         <div>
                                             <h6 class="mb-1">Call Us</h6>
-                                            <p class="mb-0 fs-5 text-primary fw-bold" style="letter-spacing: 1px;">+256 784 524 705</p>
+                                            <p class="mb-0 fs-5 text-primary fw-bold" style="letter-spacing: 1px;">+256 776 779 820</p>
                                         </div>
                                     </div>
                                 </div>
@@ -636,7 +636,7 @@
                         <i class="fas fa-quote-left fa-2x text-primary"></i>
                     </div>
                     <div class="testimonial-img text-center mb-3">
-                        <img src="assets/img/user.png" class="img-fluid rounded-circle" alt="Annette" style="width: 80px; height: 80px;">
+                        <img src="assets/images/annette.jpg" class="img-fluid rounded-circle" alt="Annette" style="width: 80px; height: 80px;">
                     </div>
                     <div class="testimonial-text mb-3">
                         <p>
@@ -667,7 +667,7 @@
                         <i class="fas fa-quote-left fa-2x text-primary"></i>
                     </div>
                     <div class="testimonial-img text-center mb-3">
-                        <img src="assets/img/user.png" class="img-fluid rounded-circle" alt="Elder John" style="width: 80px; height: 80px;">
+                        <img src="assets/images/elder.jpg" class="img-fluid rounded-circle" alt="Elder John" style="width: 80px; height: 80px;">
                     </div>
                     <div class="testimonial-text mb-3">
                         <p>
@@ -698,7 +698,7 @@
                         <i class="fas fa-quote-left fa-2x text-primary"></i>
                     </div>
                     <div class="testimonial-img text-center mb-3">
-                        <img src="assets/img/user.png" class="img-fluid rounded-circle" alt="Sarah K" style="width: 80px; height: 80px;">
+                        <img src="assets/images/sarah.jpg" class="img-fluid rounded-circle" alt="Sarah K" style="width: 80px; height: 80px;">
                     </div>
                     <div class="testimonial-text mb-3">
                         <p>
@@ -729,7 +729,7 @@
                         <i class="fas fa-quote-left fa-2x text-primary"></i>
                     </div>
                     <div class="testimonial-img text-center mb-3">
-                        <img src="assets/img/user.png" class="img-fluid rounded-circle" alt="Mariah K" style="width: 80px; height: 80px;">
+                        <img src="assets/images/mariah.jpg" class="img-fluid rounded-circle" alt="Mariah K" style="width: 80px; height: 80px;">
                     </div>
                     <div class="testimonial-text mb-3">
                         <p>
