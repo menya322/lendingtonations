@@ -163,7 +163,7 @@
                                         <i class="fas fa-phone-alt fa-2x text-primary me-4"></i>
                                         <div>
                                             <h6 class="mb-1">Call Us</h6>
-                                            <p class="mb-0 fs-5 text-primary fw-bold" style="letter-spacing: 1px;">+256 776 779 820</p>
+                                            <p class="mb-0 fs-5 text-primary fw-bold" style="letter-spacing: 1px;">+256 779 923 506</p>
                                         </div>
                                     </div>
                                 </div>
