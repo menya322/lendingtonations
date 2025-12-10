@@ -135,7 +135,7 @@
                                 <p class="mb-2"><strong>MTN Merchant Code:</strong></p>
                                 <p class="mb-3 fs-5 text-primary">486641</p>
                                 <p class="mb-2"><strong>Mtn  Mobile Money:</strong></p>
-                                <p class="mb-0 fs-5 text-primary">+256 779 923 506</p>
+                                <p class="mb-0 fs-5 text-primary">+256 784 524 705</p>
                             </div>
                         </div>
                     </div>
