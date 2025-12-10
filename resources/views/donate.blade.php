@@ -115,9 +115,9 @@
                             <h4 class="mb-3">Bank Transfer</h4>
                             <p class="text-muted mb-4">Direct bank deposit for secure and convenient giving</p>
                             <div class="bank-details text-start bg-light p-4 rounded">
-                                <p class="mb-2"><strong>Bank Name:</strong> Stanbic Bank</p>
-                                <p class="mb-2"><strong>Account Name:</strong> Lending To Nations</p>
-                                <p class="mb-2"><strong>Account Number:</strong> 1234567890</p>
+                                <p class="mb-2"><strong>Bank Name:</strong> Equity Bank</p>
+                                <p class="mb-2"><strong>Account Name:</strong> Tumusiime Paul</p>
+                                <p class="mb-2"><strong>Account Number:</strong> 1028102863116</p>
                                 <p class="mb-0"><strong>Swift Code:</strong> XXXXX</p>
                             </div>
                         </div>
@@ -265,9 +265,9 @@
                     <div class="col-lg-6 wow fadeInRight" data-wow-delay="0.2s">
                         <div class="testimonial-card bg-white rounded p-4">
                             <div class="d-flex align-items-center mb-3">
-                                <img src="{{asset('assets/images/user.png')}}" class="rounded-circle me-3" style="width: 60px; height: 60px;" alt="Donor">
+                                <img src="{{asset('assets/images/kasozi.jpg')}}" class="rounded-circle me-3" style="width: 60px; height: 60px;" alt="Donor">
                                 <div>
-                                    <h5 class="mb-0">John D.</h5>
+                                    <h5 class="mb-0">Kasozi F.</h5>
                                     <small class="text-muted">Corporate Partner</small>
                                 </div>
                             </div>

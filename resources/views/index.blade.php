@@ -118,7 +118,7 @@
                             <h4 class="text-primary text-uppercase fw-bold">About Us</h4>
                             <h1 class="display-5 mb-4">Extending Compassion, Manifesting Truth, and Transforming Lives Across Nations</h1>
                             <p class="mb-4 lh-lg">
-                                Lending To Nations represents a divine convergence of vision and purpose a ministry birthed not in boardrooms but in the secret place of meditation with the Holy Spirit. On February 5th, 2025, during a profound moment of spiritual reflection on Dr. Tumusiime Paul's 26th birthday, heaven deposited a blueprint for global transformation. What emerged was more than an organization; it became God's outstretched arm extended across geographical, cultural, and spiritual boundaries.
+                                Lending To Nations represents a divine convergence of vision and purpose a ministry birthed not in boardrooms but in the secret place of meditation with the Holy Spirit. On February 5th, 2025, during a profound moment of spiritual reflection, heaven deposited a blueprint for global transformation. What emerged was more than an organization; it became God's outstretched arm extended across geographical, cultural, and spiritual boundaries.
                             </p>
 
                             <!-- About Features -->
