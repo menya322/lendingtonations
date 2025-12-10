@@ -17,7 +17,7 @@
         <div class="header-carousel owl-carousel">
             <!-- First Carousel Slide -->
             <div class="header-carousel-item">
-                <img src="{{asset('assets/images/godly.jpg')}}" class="img-fluid w-100" alt="Lending to Nations">
+                <img src="{{asset('assets/images/homepage.jpg')}}" class="img-fluid w-100" alt="Lending to Nations">
                 <div class="carousel-caption">
                     <div class="container">
                         <div class="row gy-0 gx-5">
@@ -636,7 +636,7 @@
                         <i class="fas fa-quote-left fa-2x text-primary"></i>
                     </div>
                     <div class="testimonial-img text-center mb-3">
-                        <img src="assets/images/annette.jpg" class="img-fluid rounded-circle" alt="Annette" style="width: 80px; height: 80px;">
+                        <img src="assets/images/ltn1.jpg" class="img-fluid rounded-circle" alt="Annette" style="width: 80px; height: 80px;">
                     </div>
                     <div class="testimonial-text mb-3">
                         <p>
@@ -667,7 +667,7 @@
                         <i class="fas fa-quote-left fa-2x text-primary"></i>
                     </div>
                     <div class="testimonial-img text-center mb-3">
-                        <img src="assets/images/elder.jpg" class="img-fluid rounded-circle" alt="Elder John" style="width: 80px; height: 80px;">
+                        <img src="assets/images/ltn4.jpg" class="img-fluid rounded-circle" alt="Elder John" style="width: 80px; height: 80px;">
                     </div>
                     <div class="testimonial-text mb-3">
                         <p>
@@ -676,7 +676,7 @@
                     </div>
                     <div class="testimonial-title mb-3">
                         <div class="mb-2">
-                            <h5 class="mb-0">Elder John Wanyana</h5>
+                            <h5 class="mb-0">Elder Jennifer Wanyana</h5>
                             <small class="text-muted">Community Leader</small>
                         </div>
                         <div class="d-flex text-warning">
@@ -698,7 +698,7 @@
                         <i class="fas fa-quote-left fa-2x text-primary"></i>
                     </div>
                     <div class="testimonial-img text-center mb-3">
-                        <img src="assets/images/sarah.jpg" class="img-fluid rounded-circle" alt="Sarah K" style="width: 80px; height: 80px;">
+                        <img src="assets/images/ltn2.jpg" class="img-fluid rounded-circle" alt="Sarah K" style="width: 80px; height: 80px;">
                     </div>
                     <div class="testimonial-text mb-3">
                         <p>
@@ -729,7 +729,7 @@
                         <i class="fas fa-quote-left fa-2x text-primary"></i>
                     </div>
                     <div class="testimonial-img text-center mb-3">
-                        <img src="assets/images/mariah.jpg" class="img-fluid rounded-circle" alt="Mariah K" style="width: 80px; height: 80px;">
+                        <img src="assets/images/ltn3.jpg" class="img-fluid rounded-circle" alt="Mariah K" style="width: 80px; height: 80px;">
                     </div>
                     <div class="testimonial-text mb-3">
                         <p>

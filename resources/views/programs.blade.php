@@ -150,7 +150,7 @@ but to disciple, mentor, and anchor people in the truth of the Gospel.
                             <i class="fas fa-quote-left fa-2x"></i>
                         </div>
                         <div class="testimonial-img">
-                            <img src="{{asset('assets/images/user.png')}}" class="img-fluid" alt="Image">
+                            <img src="{{asset('assets/images/ltn6.jpg')}}" class="img-fluid" alt="Image">
                         </div>
                         <div class="testimonial-text">
                             <p class="mb-0">"As a widow, I lost all hope of providing for my children. The Women of Destiny program taught me how to sew and run a small business. The seed capital they gave me was a miracle, but the greater miracle was the restoration of my dignity. I am no longer a burden; I am a business owner and a pillar for my family.
@@ -158,7 +158,7 @@ but to disciple, mentor, and anchor people in the truth of the Gospel.
                         </div>
                         <div class="testimonial-title">
                             <div>
-                                <h4 class="mb-0">Annette,</h4>
+                                <h4 class="mb-0">Zipporah</h4>
                                 <p class="mb-0"> Program Beneficiary</p>
                             </div>
                             <div class="d-flex text-primary">
@@ -178,7 +178,7 @@ but to disciple, mentor, and anchor people in the truth of the Gospel.
                             <i class="fas fa-quote-left fa-2x"></i>
                         </div>
                         <div class="testimonial-img">
-                            <img src="{{asset('assets/images/user.png')}}" class="img-fluid" alt="Image">
+                            <img src="{{asset('assets/images/ltn10.jpg')}}" class="img-fluid" alt="Image">
                         </div>
                         <div class="testimonial-text">
                             <p class="mb-0">When the Lending To Nations team came with their dental camp, they brought more than medical expertise they brought the tangible love of Christ. Many here live with chronic tooth pain, unable to afford treatment. They not only relieved our physical suffering but prayed with us, showing a compassion that touched our spirits. Through the food packages and medical care, we have seen God's outstretched arm in our community. 
@@ -187,7 +187,7 @@ but to disciple, mentor, and anchor people in the truth of the Gospel.
                         </div>
                         <div class="testimonial-title">
                             <div>
-                                <h4 class="mb-0">Elder John,</h4>
+                                <h4 class="mb-0">Elder Charles Menya</h4>
                                 <p class="mb-0">Community Leader in a Served Village</p>
                             </div>
                             <div class="d-flex text-primary">
@@ -207,7 +207,7 @@ but to disciple, mentor, and anchor people in the truth of the Gospel.
                             <i class="fas fa-quote-left fa-2x"></i>
                         </div>
                         <div class="testimonial-img">
-                            <img src="{{asset('assets/images/user.png')}}" class="img-fluid" alt="Image">
+                            <img src="{{asset('assets/images/ltn7.jpg')}}" class="img-fluid" alt="Image">
                         </div>
                         <div class="testimonial-text">
                             <p class="mb-0">When they came to our village, they brought food for our bodies and the Word for our souls. I received a care package for my children, but I also received prayer that broke a years-long burden of despair. Lending To Nations understands that a person is both body and spirit. They didn't just hand out goods and leave; they stayed, they laughed with us, and made us feel like family. 
@@ -216,7 +216,7 @@ but to disciple, mentor, and anchor people in the truth of the Gospel.
                         </div>
                         <div class="testimonial-title">
                             <div>
-                                <h4 class="mb-0">Sarah K</h4>
+                                <h4 class="mb-0">Nalule Jane</h4>
                                 <p class="mb-0">Guardian of a Sponsored Student</p>
                             </div>
                             <div class="d-flex text-primary">
@@ -236,17 +236,17 @@ but to disciple, mentor, and anchor people in the truth of the Gospel.
                             <i class="fas fa-quote-left fa-2x"></i>
                         </div>
                         <div class="testimonial-img">
-                            <img src="{{asset('assets/images/user.png')}}" class="img-fluid" alt="Image">
+                            <img src="{{asset('assets/images/ltn9.jpg')}}" class="img-fluid" alt="Image">
                         </div>
                         <div class="testimonial-text">
-                            <p class="mb-0">"Before Lending To Nations, my grandson's future was a closed book. I struggled to even afford his 
+                            <p class="mb-0">"Before Lending To Nations, my son's future was a closed book. I struggled to even afford his 
                                 school uniform. But their Education for Destiny program didn't just pay his fees; they invested in his destiny. They provided books, a mentor, and most importantly, the unwavering belief that he could become a leader. He now dreams of being a doctor, and for the first time, I believe it's possible.
                                  This isn't just charity; it's a divine investment in a future king
                             </p>
                         </div>
                         <div class="testimonial-title">
                             <div>
-                                <h4 class="mb-0">Mariah k </h4>
+                                <h4 class="mb-0">Obore Raphael </h4>
                                 <p class="mb-0">Mother and Outreach Beneficiary</p>
                             </div>
                             <div class="d-flex text-primary">

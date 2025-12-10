@@ -582,7 +582,7 @@
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.2s">
                         <div class="testimonial-card bg-white rounded p-4">
                             <div class="d-flex align-items-center mb-3">
-                                <img src="{{asset('assets/images/user.png')}}" class="rounded-circle me-3" style="width: 60px; height: 60px;" alt="Testimonial">
+                                <img src="{{asset('assets/images/ltn11.jpg')}}" class="rounded-circle me-3" style="width: 60px; height: 60px;" alt="Testimonial">
                                 <div>
                                     <h5 class="mb-0">Chief Kangira</h5>
                                     <small class="text-muted">Community Leader</small>
@@ -604,7 +604,7 @@
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="testimonial-card bg-white rounded p-4">
                             <div class="d-flex align-items-center mb-3">
-                                <img src="{{asset('assets/images/user.png')}}" class="rounded-circle me-3" style="width: 60px; height: 60px;" alt="Testimonial">
+                                <img src="{{asset('assets/images/ltn12.jpg')}}" class="rounded-circle me-3" style="width: 60px; height: 60px;" alt="Testimonial">
                                 <div>
                                     <h5 class="mb-0">Dr. Samuel</h5>
                                     <small class="text-muted">Healthcare Partner</small>
