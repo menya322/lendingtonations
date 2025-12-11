@@ -104,7 +104,7 @@
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                         <div class="text-center p-4 bg-white rounded shadow-sm">
                             <div class="display-4 text-primary fw-bold mb-2">
-                                <span class="counter">100</span>+
+                                <span class="counter">5</span>+
                             </div>
                             <h5 class="mb-0">Students Sponsored</h5>
                             <small class="text-muted">And counting...</small>
@@ -115,7 +115,7 @@
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="text-center p-4 bg-white rounded shadow-sm">
                             <div class="display-4 text-primary fw-bold mb-2">
-                                <span class="counter">1000</span>+
+                                <span class="counter">50</span>+
                             </div>
                             <h5 class="mb-0">Lives Impacted</h5>
                             <small class="text-muted">Directly supported</small>
@@ -166,10 +166,10 @@
                             <div class="p-4">
                                 <h4 class="mb-3 text-primary">Education for Destiny</h4>
                                 <p class="text-muted mb-3">
-                                    We've sponsored over 100 students, providing school fees, uniforms, books, and supplies to ensure they can focus on learning.
+                                    We've sponsored over 10 students, providing school fees, uniforms, books, and supplies to ensure they can focus on learning.
                                 </p>
                                 <ul class="list-unstyled">
-                                    <li class="mb-2"><i class="fas fa-check text-primary me-2"></i> 5,847 students sponsored</li>
+                                    <li class="mb-2"><i class="fas fa-check text-primary me-2"></i> 10 students sponsored</li>
                                     <li class="mb-2"><i class="fas fa-check text-primary me-2"></i>school fee coverage</li>
                                     <li><i class="fas fa-check text-primary me-2"></i> School supplies included</li>
                                 </ul>
@@ -249,7 +249,7 @@
                                     Training young leaders to become agents of change in their communities and nations. 
                                 </p>
                                 <ul class="list-unstyled">
-                                    <li class="mb-2"><i class="fas fa-check text-primary me-2"></i> 100+ leaders trained</li>
+                                    <li class="mb-2"><i class="fas fa-check text-primary me-2"></i> 10+ leaders trained</li>
                                     <li class="mb-2"><i class="fas fa-check text-primary me-2"></i> Mentorship programs</li>
                                     <li><i class="fas fa-check text-primary me-2"></i> Skills development</li>
                                 </ul>
@@ -402,25 +402,13 @@
                                     </p>
                                 </div>
                             </div>
-
-                            <!-- Timeline Item 3 -->
-                            <div class="timeline-item wow fadeInLeft" data-wow-delay="0.3s">
-                                <div class="timeline-marker bg-primary"></div>
-                                <div class="timeline-content bg-light rounded p-4 mb-4">
-                                    <h5 class="text-primary mb-2">Crisis Response</h5>
-                                    <p class="mb-0">
-                                        During the pandemic, we pivoted to support vulnerable communities with food and essential supplies, assisting 100+ families.
-                                    </p>
-                                </div>
-                            </div>
-
                             <!-- Timeline Item 4 -->
                             <div class="timeline-item wow fadeInRight" data-wow-delay="0.4s">
                                 <div class="timeline-marker bg-primary"></div>
                                 <div class="timeline-content bg-light rounded p-4 mb-4">
                                     <h5 class="text-primary mb-2">Leadership Academy</h5>
                                     <p class="mb-0">
-                                        Launched our Leadership Academy, training 250+ young people to become agents of change in their communities.
+                                        We are to Launch our Leadership Academy, training 250+ young people to become agents of change in their communities.
                                     </p>
                                 </div>
                             </div>
@@ -442,112 +430,7 @@
         </div>
         <!-- Impact Timeline Section End -->
 
-        <!-- Impact Metrics Section Start -->
-        <div class="container-fluid bg-primary py-5">
-            <div class="container py-5">
-                <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 700px;">
-                    <h4 class="text-white">Accountability & Transparency</h4>
-                    <h1 class="display-6 text-white mb-4">How We Use Your Resources</h1>
-                </div>
-
-                <div class="row g-4">
-                    <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.2s">
-                        <div class="bg-white rounded p-4">
-                            <h5 class="text-primary mb-4">Fund Allocation</h5>
-                            <div class="mb-4">
-                                <div class="d-flex justify-content-between mb-2">
-                                    <span>Education Programs</span>
-                                    <strong class="text-primary">45%</strong>
-                                </div>
-                                <div class="progress" style="height: 10px;">
-                                    <div class="progress-bar" style="width: 45%;"></div>
-                                </div>
-                            </div>
-                            <div class="mb-4">
-                                <div class="d-flex justify-content-between mb-2">
-                                    <span>Healthcare & Wellness</span>
-                                    <strong class="text-primary">20%</strong>
-                                </div>
-                                <div class="progress" style="height: 10px;">
-                                    <div class="progress-bar" style="width: 20%;"></div>
-                                </div>
-                            </div>
-                            <div class="mb-4">
-                                <div class="d-flex justify-content-between mb-2">
-                                    <span>Community Support</span>
-                                    <strong class="text-primary">18%</strong>
-                                </div>
-                                <div class="progress" style="height: 10px;">
-                                    <div class="progress-bar" style="width: 18%;"></div>
-                                </div>
-                            </div>
-                            <div class="mb-4">
-                                <div class="d-flex justify-content-between mb-2">
-                                    <span>Leadership Development</span>
-                                    <strong class="text-primary">12%</strong>
-                                </div>
-                                <div class="progress" style="height: 10px;">
-                                    <div class="progress-bar" style="width: 12%;"></div>
-                                </div>
-                            </div>
-                            <div>
-                                <div class="d-flex justify-content-between mb-2">
-                                    <span>Gospel & Evangelism</span>
-                                    <strong class="text-primary">5%</strong>
-                                </div>
-                                <div class="progress" style="height: 10px;">
-                                    <div class="progress-bar" style="width: 5%;"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
-                        <div class="bg-white rounded p-4">
-                            <h5 class="text-primary mb-4">Key Performance Indicators</h5>
-                            <ul class="list-unstyled">
-                                <li class="mb-3 d-flex justify-content-between">
-                                    <span class="d-flex align-items-center">
-                                        <i class="fas fa-check-circle text-primary me-3"></i>
-                                        Student Completion Rate
-                                    </span>
-                                    <strong>94%</strong>
-                                </li>
-                                <li class="mb-3 d-flex justify-content-between">
-                                    <span class="d-flex align-items-center">
-                                        <i class="fas fa-check-circle text-primary me-3"></i>
-                                        Family Stability Index
-                                    </span>
-                                    <strong>87%</strong>
-                                </li>
-                                <li class="mb-3 d-flex justify-content-between">
-                                    <span class="d-flex align-items-center">
-                                        <i class="fas fa-check-circle text-primary me-3"></i>
-                                        Healthcare Access
-                                    </span>
-                                    <strong>91%</strong>
-                                </li>
-                                <li class="mb-3 d-flex justify-content-between">
-                                    <span class="d-flex align-items-center">
-                                        <i class="fas fa-check-circle text-primary me-3"></i>
-                                        Community Satisfaction
-                                    </span>
-                                    <strong>96%</strong>
-                                </li>
-                                <li class="d-flex justify-content-between">
-                                    <span class="d-flex align-items-center">
-                                        <i class="fas fa-check-circle text-primary me-3"></i>
-                                        Leader Engagement
-                                    </span>
-                                    <strong>89%</strong>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Impact Metrics Section End -->
+        
 
         <!-- Call to Action Section Start -->
         <div class="container-fluid py-5">
@@ -582,7 +465,7 @@
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.2s">
                         <div class="testimonial-card bg-white rounded p-4">
                             <div class="d-flex align-items-center mb-3">
-                                <img src="{{asset('assets/images/ltn11.jpg')}}" class="rounded-circle me-3" style="width: 60px; height: 60px;" alt="Testimonial">
+                                <img src="{{asset('assets/images/user.png')}}" class="rounded-circle me-3" style="width: 60px; height: 60px;" alt="Testimonial">
                                 <div>
                                     <h5 class="mb-0">Chief Kangira</h5>
                                     <small class="text-muted">Community Leader</small>
@@ -604,9 +487,9 @@
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="testimonial-card bg-white rounded p-4">
                             <div class="d-flex align-items-center mb-3">
-                                <img src="{{asset('assets/images/ltn12.jpg')}}" class="rounded-circle me-3" style="width: 60px; height: 60px;" alt="Testimonial">
+                                <img src="{{asset('assets/images/user.png')}}" class="rounded-circle me-3" style="width: 60px; height: 60px;" alt="Testimonial">
                                 <div>
-                                    <h5 class="mb-0">Dr. Samuel</h5>
+                                    <h5 class="mb-0">Dr. Charles Mukasa</h5>
                                     <small class="text-muted">Healthcare Partner</small>
                                 </div>
                             </div>

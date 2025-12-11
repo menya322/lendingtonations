@@ -78,7 +78,7 @@
                                         </div>
                                         <div>
                                             <h4>Telephone</h4>
-                                            <p class="mb-0">(+256) 776 779820</p>
+                                            <p class="mb-0">(+256)779 923 506</p>
                                         </div>
                                     </div>
                                 </div>

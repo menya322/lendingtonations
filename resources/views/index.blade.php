@@ -577,7 +577,7 @@
                             <div class="stat-icon mb-3">
                                 <i class="fas fa-graduation-cap fa-3x text-primary"></i>
                             </div>
-                            <h3 class="display-6 text-primary fw-bold">15+</h3>
+                            <h3 class="display-6 text-primary fw-bold">5+</h3>
                             <p class="mb-0">Students Sponsored</p>
                         </div>
                     </div>
@@ -587,7 +587,7 @@
                             <div class="stat-icon mb-3">
                                 <i class="fas fa-users fa-3x text-primary"></i>
                             </div>
-                            <h3 class="display-6 text-primary fw-bold">100+</h3>
+                            <h3 class="display-6 text-primary fw-bold">50+</h3>
                             <p class="mb-0">Lives Impacted</p>
                         </div>
                     </div>
@@ -597,7 +597,7 @@
                             <div class="stat-icon mb-3">
                                 <i class="fas fa-map-marker-alt fa-3x text-primary"></i>
                             </div>
-                            <h3 class="display-6 text-primary fw-bold">50</h3>
+                            <h3 class="display-6 text-primary fw-bold">47</h3>
                             <p class="mb-0">Communities Served</p>
                         </div>
                     </div>
@@ -636,7 +636,7 @@
                         <i class="fas fa-quote-left fa-2x text-primary"></i>
                     </div>
                     <div class="testimonial-img text-center mb-3">
-                        <img src="assets/images/ltn1.jpg" class="img-fluid rounded-circle" alt="Annette" style="width: 80px; height: 80px;">
+                        <img src="assets/images/user.png" class="img-fluid rounded-circle" alt="Annette" style="width: 80px; height: 80px;">
                     </div>
                     <div class="testimonial-text mb-3">
                         <p>
@@ -667,7 +667,7 @@
                         <i class="fas fa-quote-left fa-2x text-primary"></i>
                     </div>
                     <div class="testimonial-img text-center mb-3">
-                        <img src="assets/images/ltn4.jpg" class="img-fluid rounded-circle" alt="Elder John" style="width: 80px; height: 80px;">
+                        <img src="assets/images/user.png" class="img-fluid rounded-circle" alt="Elder John" style="width: 80px; height: 80px;">
                     </div>
                     <div class="testimonial-text mb-3">
                         <p>
@@ -698,7 +698,7 @@
                         <i class="fas fa-quote-left fa-2x text-primary"></i>
                     </div>
                     <div class="testimonial-img text-center mb-3">
-                        <img src="assets/images/ltn2.jpg" class="img-fluid rounded-circle" alt="Sarah K" style="width: 80px; height: 80px;">
+                        <img src="assets/images/user.png" class="img-fluid rounded-circle" alt="Sarah K" style="width: 80px; height: 80px;">
                     </div>
                     <div class="testimonial-text mb-3">
                         <p>
@@ -729,7 +729,7 @@
                         <i class="fas fa-quote-left fa-2x text-primary"></i>
                     </div>
                     <div class="testimonial-img text-center mb-3">
-                        <img src="assets/images/ltn3.jpg" class="img-fluid rounded-circle" alt="Mariah K" style="width: 80px; height: 80px;">
+                        <img src="assets/images/user.png" class="img-fluid rounded-circle" alt="Mariah K" style="width: 80px; height: 80px;">
                     </div>
                     <div class="testimonial-text mb-3">
                         <p>

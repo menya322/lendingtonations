@@ -164,7 +164,7 @@
                         <h4 class="text-primary">Our Journey</h4>
                         <h1 class="display-6 mb-4">How It All Began</h1>
                         <p class="mb-4">
-                            On February 5th, 2025, during a moment of deep communion with the Holy Spirit, Dr. Tumusiime Paul received a divine mandate on his 26th birthday. What started as a whisper in the secret place has grown into a movement touching lives across nations.
+                            On February 5th, 2025, during a moment of deep communion with the Holy Spirit, Dr. Tumusiime Paul received a divine mandate. What started as a whisper in the secret place has grown into a movement touching lives across nations.
                         </p>
                         <p class="mb-4">
                             From a single seed of faith, God has assembled a movement passionate young men and women, each carrying their own testimony of God's call. Together, we have committed to being channels of His love, reaching communities that often feel forgotten by the world but are never forgotten by God.
@@ -221,7 +221,7 @@
                     <div class="col-md-6 col-lg-3 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="counter-item text-white">
                             <i class="fas fa-hand-holding-heart fa-3x mb-3"></i>
-                            <h2 class="text-white mb-2"><span class="counter" data-count="100">200</span>+</h2>
+                            <h2 class="text-white mb-2"><span class="counter" data-count="100">50</span>+</h2>
                             <p class="text-white mb-0">Lives Impacted</p>
                         </div>
                     </div>
