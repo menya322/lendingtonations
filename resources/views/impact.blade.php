@@ -398,7 +398,7 @@
                                 <div class="timeline-content bg-light rounded p-4 mb-4">
                                     <h5 class="text-primary mb-2">Expansion</h5>
                                     <p class="mb-0">
-                                        We expanded to 8 communities and launched our healthcare initiative, reaching over 2,000 people.
+                                        We expanded to 8 communities and launched our healthcare initiative, reaching over 50 people.
                                     </p>
                                 </div>
                             </div>

@@ -676,7 +676,7 @@
                     </div>
                     <div class="testimonial-title mb-3">
                         <div class="mb-2">
-                            <h5 class="mb-0">Elder Jennifer Wanyana</h5>
+                            <h5 class="mb-0">Jennifer Wanyana</h5>
                             <small class="text-muted">Community Leader</small>
                         </div>
                         <div class="d-flex text-warning">
